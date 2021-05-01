@@ -1,0 +1,68 @@
+NET "osc" LOC=P57;
+NET "mode0" LOC = P47;
+NET "mode1" LOC = P48;
+NET "set" LOC = P49;
+NET "display" LOC = P50;
+NET "aoff" LOC = P51;
+NET "reset" LOC = P54;
+//NET "ST[2]" LOC = P91;
+NET "ST[1]" LOC= P92;
+NET"ST[0]" LOC =P93;
+//NET "st1[2]" LOC=P87;
+//NET "st1[1]" LOC =P88;
+//NET "st1[0]" LOC = P90;
+NET "st" LOC=P87;
+NET "light" LOC = P30;
+NET "on_sign" LOC=P31;
+NET "num" LOC =P32;
+
+
+NET "J1[6]" LOC = P3;
+NET "J1[5]" LOC = P4;
+NET "J1[4]" LOC = P5;
+NET "J1[3]" LOC = P6;
+NET "J1[2]" LOC = P7;
+NET "J1[1]" LOC = P8;
+NET "J1[0]" LOC = P10;
+
+NET "J2[6]" LOC = P11;
+NET "J2[5]" LOC = P12;
+NET "J2[4]" LOC = P13;
+NET "J2[3]" LOC = P15;
+NET "J2[2]" LOC = P16;
+NET "J2[1]" LOC = P18;
+NET "J2[0]" LOC = P19;
+
+NET "J3[6]" LOC = P20;
+NET "J3[5]" LOC = P21;
+NET "J3[4]" LOC = P24;
+NET "J3[3]" LOC = P25;
+NET "J3[2]" LOC = P27;
+NET "J3[1]" LOC = P28;
+NET "J3[0]" LOC = P29;
+
+NET "J4[6]" LOC = P55;
+NET "J4[5]" LOC = P58;
+NET "J4[4]" LOC = P59;
+NET "J4[3]" LOC = P60;
+NET "J4[2]" LOC = P62;
+NET "J4[1]" LOC = P63;
+NET "J4[0]" LOC = P64;
+
+NET "J5[6]" LOC = P68;
+NET "J5[5]" LOC = P69;
+NET "J5[4]" LOC = P70;
+NET "J5[3]" LOC = P71;
+NET "J5[2]" LOC = P72;
+NET "J5[1]" LOC = P75;
+NET "J5[0]" LOC = P76;
+
+NET "J6[6]" LOC = P77;
+NET "J6[5]" LOC = P78;
+NET "J6[4]" LOC = P79;
+NET "J6[3]" LOC = P82;
+NET "J6[2]" LOC = P83;
+NET "J6[1]" LOC = P84;
+NET "J6[0]" LOC = P85;
+NET "on_sign" CLOCK_DEDICATED_ROUTE = FALSE; 
+NET "num" CLOCK_DEDICATED_ROUTE = FALSE; 
